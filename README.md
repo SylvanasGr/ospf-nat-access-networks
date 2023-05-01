@@ -1,12 +1,11 @@
-<html>
+
 <head>
-	<title>OSPF NAT Access Networks Master Exercise</title>
+	<h1>OSPF NAT Access Networks Master Exercise</h1>
 </head>
 <body>
 	<h1>OSPF NAT Access Networks Master Exercise</h1>
 	<p>This is a network simulation exercise for OSPF (Open Shortest Path First) NAT Access Networks using Cisco Packet Tracer. This exercise is designed to test your skills in configuring and troubleshooting OSPF NAT Access Networks using Cisco Packet Tracer.</p>
-less
-Copy code
+
 <h2>Requirements</h2>
 <p>To complete this exercise, you will need:</p>
 <ul>
@@ -42,4 +41,4 @@ Copy code
 <h2>Disclaimer</h2>
 <p>This exercise is for educational purposes only. The author is not responsible for any damage or loss caused by the use of this exercise. Use at your own risk.</p>
 </body>
-</html>
+
