@@ -22,17 +22,12 @@
 <h2>Topology</h2>
 <p>The topology for this exercise consists of:</p>
 <ul>
-	<li>1 Router</li>
-	<li>2 Switches</li>
-	<li>4 PCs</li>
+	<li>3 Router</li>
+	<li>5 Switches</li>
+	<li>12 PCs</li>
+	<li>1 Proxy</li>
 </ul>
-<img src="topology.png" alt="Topology Image">
 
-<h2>Files</h2>
-<p>ospf_nat_access_networks.pkt: Packet Tracer file for this exercise.</p>
-
-<h2>Credits</h2>
-<p>This exercise was created by [Your Name Here]. If you have any questions or comments, please contact me at [your email address here].</p>
 
 <h2>Disclaimer</h2>
 <p>This exercise is for educational purposes only. The author is not responsible for any damage or loss caused by the use of this exercise. Use at your own risk.</p>
